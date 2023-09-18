@@ -14,7 +14,7 @@
     "\n",
     "This dataset is called *eBay Kleinanzeigen*, a classifieds section of the German eBay website. The original dataset was webscraped and uploaded (now deleted) by the user *Orgeleska*. The original dataset is [modified](https://data.world/data-society/used-cars-data) to sample 50,000 data points from the full dataset, and is dirtied to resemble a preliminary scraped dataset. \n",
     "\n",
-    "This analysis helps us understand customer preferences and market trends in the used automotive market. By tracking pricing dynamics and inventory levels, we can optimize pricing strategies and inventory management to maximize profitability. \n" 
+    "This analysis helps us understand customer preferences and market trends in the used automotive market. By tracking pricing dynamics and inventory levels, we can optimize pricing strategies and inventory management to maximize profitability. \n",
     "The *eBay Kleinanzeigen* data dictionary: \n",
     "\n",
     "|column | description | \n",
