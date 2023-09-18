@@ -15,7 +15,7 @@ I'm a recovering plant research technician who fell in love with data analysis, 
 
 **LinkedIn:** [Michaella Atienza](https://www.linkedin.com/in/michaella-atienza/)
 
-Thank you for checking out my work! Your feedback and contributions are highly appreciated.
+Thank you for checking out my work! Please check back later for ongoing updates to this README and more in-progress projects.
 
 
 
