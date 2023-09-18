@@ -3,21 +3,11 @@ Here, you'll find a collection of Python projects that showcase my coding skills
 
 ## Projects
 1. **CIA Factbook Exploratory Data Analysis:** 
-
-Link to the project repository or live demo if available.
-
 2. **Webscraping iGEM/Biotech news:**
-
-Link to the project repository or live demo if available.
-3. **Heavy Traffic Indicators:**
-
-Link to the project repository or live demo if available.
-
+3. **Heavy Traffic Indicators:** 
 4. **German eBay Car Classifieds:**
 
-Link to the project repository or live demo. 
-
-**About Me**
+## About Me
 I'm a recovering plant research technician who fell in love with data analysis, and is now determined to pivot from the bench and greenhouse into data analytics.
 
 **Contact**
