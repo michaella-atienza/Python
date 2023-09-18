@@ -4,7 +4,7 @@ Here, you'll find a collection of Python projects that showcase my coding skills
 ## Projects
 1. **CIA Factbook Exploratory Data Analysis:**
 2. **German eBay Car Classifieds:** 
-3.  **Heavy Traffic Indicators:** Using Pandas for heavy traffic indicators on highways: particularly, the Minneapolis-StPaul hourly traffic for westbound I-94.
+3.  **Heavy Traffic Indicators:** Using Pandas & Matplotlib for heavy traffic indicators on highways: particularly, the Minneapolis-StPaul hourly traffic for westbound I-94.
 4.   **Webscraping iGEM/Biotech news:** Using BeautifulSoup and Requests to automate data entry & archiving of related news.
 
 ## About Me
