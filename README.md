@@ -11,7 +11,7 @@ Here, you'll find a collection of Python projects that showcase my coding skills
 I'm a recovering plant research technician who fell in love with data analysis, and is now determined to pivot from the bench and greenhouse into data analytics.
 
 **Contact**
-**Email:** mysicella@example.com
+**Email:** mysicella@gmail.com
 
 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/michaella-atienza/)
 
