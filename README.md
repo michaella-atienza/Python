@@ -5,6 +5,7 @@ Here, you'll find a collection of Python projects that showcase my coding skills
 1. **CIA Factbook Exploratory Data Analysis:** 
 
 Link to the project repository or live demo if available.
+
 2. **Webscraping iGEM/Biotech news:**
 
 Link to the project repository or live demo if available.
