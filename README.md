@@ -1,4 +1,4 @@
-## Welcome to my GitHub repository portfolio!
+## Welcome to my GitHub repository Python portfolio!
 Here, you'll find a collection of Python projects that showcase my coding skills and interests. Feel free to explore and learn from my code. 
 
 ## Projects
