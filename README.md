@@ -13,7 +13,7 @@ I'm a recovering plant research technician who fell in love with data analysis, 
 **Contact**
 **Email:** mysicella@gmail.com
 
-**LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/michaella-atienza/)
+**LinkedIn:** [Michaella Atienza](https://www.linkedin.com/in/michaella-atienza/)
 
 Thank you for checking out my work! Your feedback and contributions are highly appreciated.
 
